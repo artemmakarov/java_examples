@@ -1,7 +1,7 @@
 // чтение символа с клавы
 class KbIn {
 	public static void main(String[] args) 
-		trows java.io IOExeption {
+		throws java.io IOExeption {
 
 			char ch;
 
